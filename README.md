@@ -1,2 +1,2 @@
 # Access_java_unit
-First repository in java 
+My first java project  

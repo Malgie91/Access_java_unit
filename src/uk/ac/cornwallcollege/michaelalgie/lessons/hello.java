@@ -1,4 +1,4 @@
-package uk.ac.cornwallcollege.michaelalgie;
+package uk.ac.cornwallcollege.michaelalgie.lessons;
 
 import java.util.ArrayList;
 import java.util.Collections;
